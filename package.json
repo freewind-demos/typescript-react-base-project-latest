@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "dev": "webpack-serve --open",
-    "pack": "webpack --display-modules"
+    "dev": "webpack-dev-server --open"
   },
   "dependencies": {
     "react": "latest",
@@ -18,6 +17,6 @@
     "typescript": "latest",
     "webpack": "latest",
     "webpack-cli": "latest",
-    "webpack-serve": "latest"
+    "webpack-dev-server": "latest"
   }
 }
