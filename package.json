@@ -14,7 +14,7 @@
     "source-map-loader": "latest",
     "style-loader": "latest",
     "ts-loader": "latest",
-    "typescript": "latest",
+    "typescript": "5.3.3",
     "webpack": "latest",
     "webpack-cli": "latest",
     "webpack-dev-server": "latest"
